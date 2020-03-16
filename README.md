@@ -7,5 +7,4 @@ Future Updates:
 - May add a Celsius / Fahrenheit changer.  
 
 This is a weather app forked in Django by Nathe Chan.  
-<img src="https://imgur.com/dwlqlFS"
-     alt="Django Weather App" />
+<img src="https://i.imgur.com/dwlqlFS.png" alt="Django Weather App" />
